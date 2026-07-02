@@ -1,0 +1,8 @@
+{
+  "extends": "@shcherbin/typescript-config",
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "types": ["node"]
+  },
+  "include": ["./src/**/*.ts", "./tests/*.ts"]
+}
