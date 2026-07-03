@@ -1,7 +1,7 @@
 {
   "name": "tree-paths",
   "description": "Convert a list of paths into a nested directory tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Vlad Shcherbin <vlad.shcherbin@gmail.com>",
   "repository": {
     "type": "git",
