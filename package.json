@@ -3,7 +3,10 @@
   "description": "Convert a list of paths into a nested directory tree",
   "version": "1.0.0",
   "author": "Vlad Shcherbin <vlad.shcherbin@gmail.com>",
-  "repository": "vladshcherbin/tree-paths",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladshcherbin/tree-paths.git"
+  },
   "exports": {
     ".": "./dist/index.mjs",
     "./package.json": "./package.json"
