@@ -19,7 +19,7 @@
   "devDependencies": {
     "@shcherbin/eslint-config-node": "^0.6.0",
     "@shcherbin/typescript-config": "^1.0.0",
-    "@types/node": "^26.0.1",
+    "@types/node": "^26.1.0",
     "eslint": "^10.6.0",
     "tsdown": "^0.22.3",
     "typescript": "^6.0.3"
